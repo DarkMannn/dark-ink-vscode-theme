@@ -1,0 +1,49 @@
+{
+  "name": "dark-ink-theme",
+  "displayName": "Dark Ink Color Theme",
+  "description": "Dark, minimalistic VSCode theme with eye-soothing, gentle shades of ink.",
+  "version": "0.0.0",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "minimalistic",
+    "minimal",
+    "monochrome",
+    "zen",
+    "clean",
+    "simple",
+    "distraction-free",
+    "clutter-free",
+    "gentle",
+    "ink",
+    "navy",
+    "dark-blue",
+    "blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Ink Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-ink-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/dark-ink-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/dark-ink-vscode-theme/issues"
+  },
+  "license": "MIT"
+}
