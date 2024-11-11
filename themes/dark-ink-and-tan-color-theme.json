@@ -1,5 +1,5 @@
 {
-  "name": "Dark Ink And Nectarine Theme",
+  "name": "Dark Ink And Tan Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -178,7 +178,7 @@
         "markup.inline.raw.string.markdown"
       ],
       "settings": {
-        "foreground": "#dd7d70"
+        "foreground": "#917d5d"
       }
     },
     {
@@ -231,14 +231,14 @@
       "name": "numbers",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#dd7d70"
+        "foreground": "#917d5d"
       }
     },
     {
       "name": "booleans",
       "scope": ["constant.language.boolean", "constant.language.json"],
       "settings": {
-        "foreground": "#dd7d70"
+        "foreground": "#917d5d"
       }
     },
     {
@@ -308,7 +308,7 @@
       "name": "labels",
       "scope": ["entity.name.label", "punctuation.definition.label"],
       "settings": {
-        "foreground": "#dd7d70"
+        "foreground": "#917d5d"
       }
     },
     {
@@ -379,7 +379,7 @@
       "name": "punctuation for strings",
       "scope": ["punctuation.definition.string"],
       "settings": {
-        "foreground": "#dd7d70"
+        "foreground": "#917d5d"
       }
     }
   ],
@@ -392,7 +392,7 @@
     "activityBar.background": "#0e0e0e",
     "activityBar.inactiveForeground": "#717c8e",
     "activityBarBadge.foreground": "#0e0e0e",
-    "activityBarBadge.background": "#dd7d70",
+    "activityBarBadge.background": "#917d5d",
     "activityBar.border": "#d8d8d800",
     "activityBar.activeBackground": "#0e0e0e",
     "sideBar.background": "#0e0e0e",
@@ -410,7 +410,7 @@
     "list.activeSelectionForeground": "#d8d8d8",
     "tree.indentGuidesStroke": "#444444",
     "list.dropBackground": "#1a1e27",
-    "list.highlightForeground": "#dd7d70",
+    "list.highlightForeground": "#917d5d",
     "list.focusBackground": "#717c8e50",
     "list.focusForeground": "#d8d8d8",
     "listFilterWidget.background": "#444444",
@@ -429,7 +429,7 @@
     "statusBarItem.remoteBackground": "#0e0e0e",
     "statusBarItem.remoteForeground": "#d8d8d8",
     "titleBar.activeBackground": "#1a1e27",
-    "titleBar.activeForeground": "#dd7d70",
+    "titleBar.activeForeground": "#917d5d",
     "titleBar.inactiveBackground": "#0e0e0e",
     "titleBar.inactiveForeground": "#444444",
     "titleBar.border": "#d8d8d800",
@@ -531,7 +531,7 @@
     "panelTitle.activeBorder": "#8fabd3",
     "panelTitle.activeForeground": "#8fabd3",
     "panelTitle.inactiveForeground": "#717C8E",
-    "badge.background": "#dd7d70",
+    "badge.background": "#917d5d",
     "badge.foreground": "#0e0e0e",
     "terminal.foreground": "#d8d8d8",
     "terminal.selectionBackground": "#2d2d2d",
@@ -551,7 +551,7 @@
     "terminal.ansiCyan": "#50d2f7",
     "terminal.ansiGreen": "#33D057",
     "terminal.ansiMagenta": "#E557F9",
-    "terminal.ansiRed": "#dd7d70",
+    "terminal.ansiRed": "#917d5d",
     "terminal.ansiWhite": "#d8d8d8",
     "terminal.ansiYellow": "#eded88",
     "breadcrumb.background": "#0e0e0e",
@@ -573,11 +573,11 @@
     "scrollbarSlider.background": "#444444",
     "scrollbarSlider.hoverBackground": "#b6b6b6b3",
     "scrollbarSlider.activeBackground": "#bfbfbf66",
-    "progressBar.background": "#dd7d70",
+    "progressBar.background": "#917d5d",
     "widget.shadow": "#44444400",
     "editorWidget.foreground": "#687b99",
     "editorWidget.background": "#1a1e27",
-    "editorWidget.resizeBorder": "#dd7d70",
+    "editorWidget.resizeBorder": "#917d5d",
     "pickerGroup.border": "#717c8e00",
     "pickerGroup.foreground": "#717c8e",
     "debugToolBar.background": "#2d2d2d",
@@ -614,7 +614,7 @@
     "editorSuggestWidget.background": "#1a1e27",
     "editorSuggestWidget.border": "#1a1e2700",
     "editorSuggestWidget.foreground": "#687b99",
-    "editorSuggestWidget.highlightForeground": "#dd7d70",
+    "editorSuggestWidget.highlightForeground": "#917d5d",
     "editorSuggestWidget.selectedBackground": "#717c8e50",
     "editorHoverWidget.foreground": "#687b99",
     "editorHoverWidget.background": "#1a1e27",
@@ -633,7 +633,7 @@
     "peekViewTitle.background": "#0e0e0e",
     "peekViewTitleDescription.foreground": "#717c8e",
     "peekViewTitleLabel.foreground": "#d8d8d8",
-    "icon.foreground": "#dd7d70",
+    "icon.foreground": "#917d5d",
     "checkbox.background": "#0e0e0e",
     "checkbox.foreground": "#d8d8d8",
     "checkbox.border": "#717c8e",
