@@ -2,7 +2,7 @@
   "name": "dark-ink-theme",
   "displayName": "Dark Ink Color Theme",
   "description": "Dark, minimalistic VSCode theme with eye-soothing, gentle shades of ink.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "DarkMannn",
   "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
   "engines": {
@@ -36,9 +36,9 @@
         "path": "./themes/dark-ink-color-theme.json"
       },
       {
-        "label": "Dark Ink And Tan Theme",
+        "label": "Dark Ink And Red Accents",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-ink-and-tan-color-theme.json"
+        "path": "./themes/dark-ink-and-red-accents-theme.json"
       }
     ]
   },
