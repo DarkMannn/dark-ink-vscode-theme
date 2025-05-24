@@ -4,6 +4,10 @@
 
 Dark, minimalistic VSCode theme with eye-soothing, gentle shades of ink.
 
+After the latest release there are multiple variants of dark themes, and a single light theme just in case anyone needs it.
+
+Enjoy!! :)
+
 ![dark-ink-theme](https://imgur.com/YXB1mqp.png)
 
 ![theme preview](https://imgur.com/HehQY1c.png)
