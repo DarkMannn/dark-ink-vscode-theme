@@ -8,9 +8,9 @@ After the latest release there are multiple variants of dark themes, and a singl
 
 Enjoy!! :)
 
-![dark-ink-theme](https://imgur.com/YXB1mqp.png)
+![dark-ink-theme](assets/icon.png)
 
-![theme preview](https://imgur.com/HehQY1c.png)
+![theme preview](assets/code-snapshot.png)
 
 </div>
 
