@@ -217,14 +217,14 @@
       "name": "comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#d2b685"
+        "foreground": "#dbd4c6"
       }
     },
     {
       "name": "docComments",
       "scope": ["comment.documentation", "comment.line.documentation"],
       "settings": {
-        "foreground": "#d2b685"
+        "foreground": "#dbd4c6"
       }
     },
     {
